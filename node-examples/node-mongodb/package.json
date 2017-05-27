@@ -1,0 +1,24 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunchauhan/node-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/arjunchauhan/node-dev#readme"
+}
