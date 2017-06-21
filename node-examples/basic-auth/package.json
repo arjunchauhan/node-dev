@@ -5,6 +5,7 @@
   "main": "rectangle-1.js",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
     "express": "^4.15.3",
     "morgan": "^1.8.1",
     "yargs": "^8.0.1"
